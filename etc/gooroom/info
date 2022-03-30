@@ -1,0 +1,6 @@
+RELEASE=21.22.03.00
+CODENAME=tmaxgooroom
+DESCRIPTION="TmaxGooroom 21.22.03.00"
+GRUB_TITLE=TmaxGooroom 21.22.03.00
+PRETTY_NAME="TmaxGooroom 21"
+NAME="TmaxGooroom"

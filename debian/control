@@ -1,0 +1,12 @@
+Source: gooroom-info
+Section: admin
+Priority: optional
+Maintainer: os1_2 <os1_2@tmax.co.kr>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: gooroom-info
+Architecture: all
+Description: Information about the TmaxGooroom OS release and edition
+ It contains information about the TmaxGooroom OS release and edition
+ 

@@ -1,0 +1,110 @@
+gooroom-info (3.0.0+grm3u1tos5) tmax-unstable; urgency=medium
+
+  * update version to 21.22.03.00
+
+ -- Junyeop Kim <junyeop_kim@tmax.co.kr>  Wed, 30 Mar 2022 11:38:57 +0900
+
+gooroom-info (3.0.0+grm3u1tos4) tmax-unstable; urgency=medium
+
+  * update version to 21.22.01.04
+
+ -- Junyeop Kim <junyeop_kim@tmax.co.kr>  Thu, 27 Jan 2022 10:50:02 +0900
+
+gooroom-info (3.0.0+grm3u1tos3) tmax-unstable; urgency=medium
+
+  [ JunYoung Chang ]
+  * tmaxgooroom branding & remove lsb-release
+  * delete architecture-based files
+
+  [ Junyeop Kim ]
+  * additional fields in info file
+
+ -- Junyeop Kim <junyeop_kim@tmax.co.kr>  Tue, 04 Jan 2022 12:52:01 +0900
+
+gooroom-info (3.0.0+grm3u1tos2) tmax-unstable; urgency=medium
+
+  * change build rule
+  * make architecture-free
+
+ -- JunYoung Chang <junyoung_chang@tmax.co.kr>  Mon, 27 Dec 2021 01:58:13 -0500
+
+gooroom-info (3.0.0+grm3u1tos1) tmax-unstable; urgency=medium
+
+  * tmaxgooroom branding
+  * remove lsb-release
+
+ -- JunYoung Chang <junyoung_chang@tmax.co.kr>  Mon, 20 Dec 2021 00:44:51 -0500
+
+gooroom-info (3.0.0+grm3u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [fd2a908e] Released gooroom-3.0
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sat, 04 Dec 2021 15:54:12 +0900
+
+gooroom-info (2.1.0+grm2u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [070f6599] Released Version Gooroom 2.1
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 31 Jul 2020 11:09:09 +0900
+
+gooroom-info (2.0.0+grm2u3) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [ee6dd24d] Modified CODENAME to gooroom-2.0
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 18 May 2020 18:55:19 +0900
+
+gooroom-info (2.0.0+grm2u2) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [fb93c9bb] Modified copyright
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 29 Nov 2019 10:11:18 +0900
+
+gooroom-info (2.0.0+grm2u1) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [b4717005] Released gooroom-2.0-unstable
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Tue, 19 Nov 2019 14:10:32 +0900
+
+gooroom-info (1.1.0+grm1u1) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [985b6e09] Release gooroom 1.1
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 11 Oct 2018 11:18:05 +0900
+
+gooroom-info (1.0.1+grm1u1) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [e0095109] Added DISTRIB_CODENAME and BASE_DISTRIB_CODENAME
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Wed, 27 Jun 2018 15:01:05 +0900
+
+gooroom-info (1.0+grm1) gooroom-1.0; urgency=medium
+
+  * UNRELEASED
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 13 May 2016 03:50:29 +0900
+
+gooroom-info (1.0) gooroom-1.0; urgency=low
+
+  * Initial Release
+
+ -- gooroom <gooroom@gooroom.kr>  Mon, 19 Oct 2015 10:49:11 +0900
+
